@@ -1,6 +1,6 @@
 - 👋 Hi, I am Priya Shaarad
 - 👀 I’m interested in Web Designing and development.
-- 🌱 I’m currently learning Javascript, React and other frames and database.
+- 🌱 I’m currently learning Javascript, React and other frameworks and database.
 - 📫 You can reach me through my email id: priyashaarad@gmail.com
 
 <!---
